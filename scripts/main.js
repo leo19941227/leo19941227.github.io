@@ -1,67 +1,22 @@
-var answer = Math.floor(Math.random() * 100) + 1;
-
-var input = document.querySelector('.guessField');
-var submit = document.querySelector('.guessSubmit');
-
-var guesses = document.querySelector('.guesses');
-var lastResult = document.querySelector('.lastResult');
-var lowOrHigh = document.querySelector('.lowOrHi');
-
-var guessCount = 1;
-
-function evaluateGuess() {
-  var inputNumber = Number(input.value);
+function Cell(x, y) {
+  var button = document.querySelector('#' + id);
+  var column = x;
+  var row = y;
+  var open = false;
+  var bomb = false;
   
-  if (guessCount === 1) {
-    guesses.textContent = 'Previous guesses:';
-  }
-  guesses.textContent += (' ' + inputNumber);
+  this.clicked = function() {
+    if(!open) {
+      open = true;
+      button.textContent = 'X';
+    }
+  };
   
-  if (inputNumber === answer) {
-    lastResult.textContent = 'CORRECT';
-    lastResult.style.backgroundColor = 'green';
-    lowOrHigh.textContent = 'Correct!';
-    askReset();
-  } else if (inputNumber < answer) {
-    lastResult.textContent = 'WRONG';
-    lastResult.style.backgroundColor = 'red';
-    lowOrHigh.textContent = 'hint: Too low';
-  } else {
-    lastResult.textContent = 'WRONG';
-    lastResult.style.backgroundColor = 'red';
-    lowOrHigh.textContent = 'hint: Too high';
+  this.getPosition = function() {
+    return [x,y];
   }
-
-  guessCount += 1;
-  input.value = '';
-  input.focus();
+  
+  button.addEventListener('click', this.clicked); 
 }
 
-function askReset() {
-  input.disabled = true;
-  submit.disabled = true;
-  newGameButton = document.createElement('button');
-  newGameButton.textContent = 'New game';
-  document.body.appendChild(newGameButton);
-  newGameButton.addEventListener('click', resetGame);
-}
-
-function resetGame() {
-  document.body.removeChild(newGameButton);
-  input.disabled = false;
-  submit.disabled = false;
-  
-  paragraphs = document.querySelectorAll('.resultParas p');
-  for(var i=0; i<paragraphs.length; i++) {
-    paragraphs[i].textContent = '';
-  }
-  lastResult.style.backgroundColor = 'white';
-  
-  input.value = '';
-  input.focus();
-  
-  var answer = Math.floor(Math.random() * 100) + 1;
-}
-
-input.focus();
-submit.addEventListener('click', evaluateGuess);
+var size = 10;
