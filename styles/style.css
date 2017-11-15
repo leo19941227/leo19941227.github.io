@@ -1,4 +1,18 @@
+html {
+  background-color: #F9F3E9;
+}
+
 h1 {
+  margin: 0 auto;
   text-align: center;
   font-size: 50px;
+  padding: 20px 0px 0px 0px;
+  color: dimgrey
+}
+
+h2 {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 30px;
+  padding: 5px 0px 20px 0px;
 }
