@@ -1,5 +1,4 @@
-//var size = Number( prompt('Enter the metrix size you want to play: ') );
-var size = 10;
+var size = Number( prompt('Enter the metrix size you want to play: ') );
 var pixel = 55;
 var bumbNum = Math.floor(4 * size / 5);
 var saveNum = size * size - bumbNum;
@@ -56,7 +55,7 @@ function Cell(m, n) {
           }
           var endMessage = document.querySelector('h2');
           h2.textContent = 'YOU WIN';
-          h2.style.color = 'darkseagreen';
+          h2.style.color = '#228b22';
           gameOverHandler();
         }
 
