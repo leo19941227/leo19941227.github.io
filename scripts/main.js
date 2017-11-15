@@ -1,67 +1,34 @@
-var answer = Math.floor(Math.random() * 100) + 1;
+var welcomeMessage = document.querySelector('#welcome');
+var userName = localStorage.getItem('name');
 
-var input = document.querySelector('.guessField');
-var submit = document.querySelector('.guessSubmit');
+if(!userName) {
+  setUserName();
+}
+else {
+  welcomeMessage.textContent = 'Welcome, ' + userName;
+}
 
-var guesses = document.querySelector('.guesses');
-var lastResult = document.querySelector('.lastResult');
-var lowOrHigh = document.querySelector('.lowOrHi');
+function setUserName() {
+  var userName = prompt('What\'s your name: ');
+  localStorage.setItem('name', userName);
+  welcomeMessage.textContent = 'Welcome, ' + userName;
+}
 
-var guessCount = 1;
 
-function evaluateGuess() {
-  var inputNumber = Number(input.value);
+var logo = document.querySelector('img.logo');
+logo.onclick = function() {
+  var mozilla = 'images/mozilla.png';
+  var chrome = 'images/chrome.png';
   
-  if (guessCount === 1) {
-    guesses.textContent = 'Previous guesses:';
-  }
-  guesses.textContent += (' ' + inputNumber);
-  
-  if (inputNumber === answer) {
-    lastResult.textContent = 'CORRECT';
-    lastResult.style.backgroundColor = 'green';
-    lowOrHigh.textContent = 'Correct!';
-    askReset();
-  } else if (inputNumber < answer) {
-    lastResult.textContent = 'WRONG';
-    lastResult.style.backgroundColor = 'red';
-    lowOrHigh.textContent = 'hint: Too low';
+  var version = logo.getAttribute('src');
+  if(version === mozilla) {
+    logo.setAttribute('src', chrome);
   } else {
-    lastResult.textContent = 'WRONG';
-    lastResult.style.backgroundColor = 'red';
-    lowOrHigh.textContent = 'hint: Too high';
+    logo.setAttribute('src', mozilla);
   }
-
-  guessCount += 1;
-  input.value = '';
-  input.focus();
 }
 
-function askReset() {
-  input.disabled = true;
-  submit.disabled = true;
-  newGameButton = document.createElement('button');
-  newGameButton.textContent = 'New game';
-  document.body.appendChild(newGameButton);
-  newGameButton.addEventListener('click', resetGame);
+var userButton = document.querySelector('#user-button');
+userButton.onclick = function() {
+  setUserName();
 }
-
-function resetGame() {
-  document.body.removeChild(newGameButton);
-  input.disabled = false;
-  submit.disabled = false;
-  
-  paragraphs = document.querySelectorAll('.resultParas p');
-  for(var i=0; i<paragraphs.length; i++) {
-    paragraphs[i].textContent = '';
-  }
-  lastResult.style.backgroundColor = 'white';
-  
-  input.value = '';
-  input.focus();
-  
-  var answer = Math.floor(Math.random() * 100) + 1;
-}
-
-input.focus();
-submit.addEventListener('click', evaluateGuess);

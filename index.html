@@ -3,30 +3,34 @@
 
 <head>
   <meta charset="utf-8">
-
-  <title>Number guessing game</title>
+  <title>test page</title>
   <link href="styles/style.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Oswald|Quicksand" rel="stylesheet">
 </head>
 
 <body>
-  <h1>Number guessing game</h1>
-
-  <p>We have selected a random number between 1 and 100. See if you can guess it in 10 turns or fewer. We'll tell you if your
-    guess was too high or too low.</p>
-
-  <div class="form">
-    <label for="guessField">Enter a guess: </label>
-    <input type="text" id="guessField" class="guessField">
-    <input type="submit" value="Submit guess" class="guessSubmit">
+  <h1 id="title">MOZILLA</h1>
+  <h2 id="welcome">Welcome</h2> 
+  <img class="logo" src="images/mozilla.png" alt="a mozilla icon">
+  
+  <div class="content">
+    <p>At Mozilla, we’re a global community of</p>
+    <ul>
+      <li>technologists</li>
+      <li>thinkers</li>
+      <li>builders</li>
+    </ul>
+    <p>working together ... </p>
+    <p id="more-information">More information:
+      <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
+    </p>
   </div>
-
-  <div class="resultParas">
-    <p class="guesses"></p>
-    <p class="lastResult"></p>
-    <p class="lowOrHi"></p>
+  
+  <div>
+    <button id="user-button">Change user</button>
   </div>
-
+  
   <script src="scripts/main.js"></script>
 </body>
-
+  
 </html>
