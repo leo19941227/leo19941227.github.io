@@ -11,12 +11,12 @@ var guessCount = 1;
 
 function evaluateGuess() {
   var inputNumber = Number(input.value);
-  
+  answer = 50;
   if (guessCount === 1) {
     guesses.textContent = 'Previous guesses:';
   }
   guesses.textContent += (' ' + inputNumber);
-
+  
   if (inputNumber === answer) {
     lastResult.textContent = 'CORRECT';
     lastResult.style.backgroundColor = 'green';
@@ -50,14 +50,18 @@ function resetGame() {
   document.body.removeChild(newGameButton);
   input.disabled = false;
   submit.disabled = false;
+  
+  paragraphs = document.querySelectorAll('.resultParas p');
+  for(var i=0; i<paragraphs.length; i++) {
+    paragraphs[i].textContent = '';
+  }
+  lastResult.style.backgroundColor = 'white';
+  
   input.value = '';
   input.focus();
-  guesses.textContent = '';
-  lastResult.textContent = '';
-  lastResult.style.backgroundColor = 'white';
-  lowOrHigh.textContent = '';
+  
+  var answer = Math.floor(Math.random() * 100) + 1;
 }
 
-submit.onclick = function () {
-  evaluateGuess();
-}
+input.focus();
+submit.addEventListener('click', evaluateGuess);
