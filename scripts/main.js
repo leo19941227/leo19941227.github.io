@@ -11,7 +11,7 @@ var guessCount = 1;
 
 function evaluateGuess() {
   var inputNumber = Number(input.value);
-  answer = 50;
+  
   if (guessCount === 1) {
     guesses.textContent = 'Previous guesses:';
   }
