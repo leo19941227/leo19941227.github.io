@@ -1,22 +1,22 @@
 # main links links
 main:
+  - title: "News"
+    url: /news/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Open-source"  # software
+    url: /open-source/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Activities"
+    url: /activities/  # reviewer, organizers (workshops & tutorials), committee, internship
+
+  - title: "Honors"  # scholarship
+    url: /honors/
+
+  - title: "Hobbies"  # piano, movie and anime, quotes
+    url: /hobbies/
+
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: https://drive.google.com/file/d/13MlqgO1dAaqib4jw0zRX7BLNHqYhs7zG/view
