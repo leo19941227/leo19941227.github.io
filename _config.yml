@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Shu-wen (Leo) Yang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shu-wen (Leo) Yang"
 description              : &description "personal description"
 url                      : https://leo19941227.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "leo19941227/leo19941227.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Shu-wen (Leo) Yang"
+  name             : "Shu-wen (Leo) Yang<br/>楊書文"
   pronouns         : # example: "she/her"
-  bio              : "speech processing, representation learning, self-supervised learning, foundation model, benchmark"
-  location         : "Taipei"
-  employer         : "National Taiwan University"
+  bio              : "Ph.D. student @<br/>National Taiwan University"
+  # location         : "Taipei"
+  employer         : #
   uri              : # URL
   email            : "leo19941227@gmail.com"
 

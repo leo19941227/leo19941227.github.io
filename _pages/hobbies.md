@@ -1,0 +1,4 @@
+---
+permalink: /hobbies/
+title: "Hobbies"
+---
