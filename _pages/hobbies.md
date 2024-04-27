@@ -20,10 +20,10 @@ Here is my very preliminary and immature interpretation of Debussy's Clair de Lu
 ## Movies & Anime
 
 Besides piano, I also enjoy watching movies and anime.
-Here are some of my favorite works and their quotes.
-Non-English quotes were translated to English using ChatGPT 4 with the following prompt:
+Here are some of my favorite works and lines.
+Non-English lines were translated to English using ChatGPT 4 with the following prompt:
 
-> You are a professor of classical English literature, aspiring to author a timeless literary masterpiece. Please incorporate the following foreign line into your epoch-making work, using a style characteristic of classic literature: ...
+> You are a professor of classical English literature, aspiring to author a timeless literary masterpiece. Please incorporate the following foreign lines into your epoch-making work, using a style characteristic of classic literature: ...
 
 (This prompt was also translated from Chinese using ChatGPT 4...)
 
@@ -50,7 +50,7 @@ Non-English quotes were translated to English using ChatGPT 4 with the following
 
     > The vastness of the world extends well beyond the mere compass of north and south. To strive for absolute perfection is to doom oneself to stagnation. In your perception, this pie may represent a martial faction; yet, to me, it symbolizes the entire world. True greatness harbors imperfection, for only through our flaws can we truly progress. If the method proves effective, why then should the Southern Fist be confined only to the north? Do you agree? --- Ip Man.
 
-Of all the quotes, the following lines are my absolute favorite. I've watched this anime over 100 times (literally).
+Of all the lines, the following lines are my absolute favorite. I've watched this anime over 100 times (literally).
 
 * ### [Ping Pong the Animation](https://www.imdb.com/title/tt3592032/) ([Taiyō Matsumoto](https://en.wikipedia.org/wiki/Taiy%C5%8D_Matsumoto) & [Yuasa Masaaki](https://en.wikipedia.org/wiki/Masaaki_Yuasa))
 
