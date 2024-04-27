@@ -25,7 +25,7 @@ Non-English lines were translated to English using ChatGPT 4 with the following 
 
 > You are a professor of classical English literature, aspiring to author a timeless literary masterpiece. Please incorporate the following foreign lines into your epoch-making work, using a style characteristic of classic literature: ...
 
-(This prompt was also translated from Chinese using ChatGPT 4...)
+(This prompt was also translated from Chinese using ChatGPT 4.)
 
 
 * ### [Star Wars 1-6](https://www.imdb.com/list/ls070150896/) ([George Lucas](https://en.wikipedia.org/wiki/George_Lucas))
