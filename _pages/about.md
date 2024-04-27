@@ -15,12 +15,12 @@ Finally, I enjoy playing the piano in my free time, where I draw numerous inspir
 
 ---
 
-My endless pursuit of research involves developing the human-level perception system with general speech understanding capability (from acoustics to linguistics) and its interplay with other modalities such as audio (including sounds and music), vision, and natural language. My primary research direction is **representation learning**, with recent focuses on self-supervised learning, universality benchmarking, and efficient foundation modeling.
+My endless pursuit of research involves developing the human-level perception system with general speech understanding capability (from acoustics to linguistics) and its interplay with other modalities such as audio (including sounds and music), vision, and natural language. My primary research direction is **representation learning** (which has various fancy names nowadays), with recent focuses on self-supervised learning, universality benchmarking, and efficient foundation modeling.
 
 - **Self-Supervised Learning (SSL)**: Learning speech representations from unlabeled data. We discover that speech SSL techniques lead to representations with strong task generalizability beyond Automatic Speech Recognition (ASR).
 Additionally, we explore their use across a broad spectrum of real-life speech applications, which marks the beginning of the era of speech foundation models (SFM).
 
-- **Universality Benchmarking**: Benchmarking the task and domain generalizability (universality) of speech representations (SFMs). I think deeply about the purpose and methods of creating a correct and solidly grounded benchmark, especially regarding its important role in guiding future model development.
+- **Universality Benchmarking**: Benchmarking the task and domain generalizability (universality) of speech representations (SFMs). I think deeply about the purpose and methods of creating a correct and solidly grounded benchmark, especially regarding its important role in providing gradients to guide future model development.
 
 - **Efficient Foundation Modeling**: All existing SFMs require industrial-level computing, which makes further research monopolized by large corporations. I am currently working on how to pre-train SFMs efficiently within academic resources.
 
