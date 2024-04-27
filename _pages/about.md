@@ -49,4 +49,8 @@ If you are interested in collaborating, please reach me at my email: <ins>leo199
   in **IEEE/ACM Transactions on Audio Speech and Language Processing**, 2024\\
   [arxiv](https://arxiv.org/abs/2404.09385) / [code](https://github.com/s3prl/s3prl)
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_zC8YRIFlc0iDXzSA0WLcjUf25Ff878np1ts4X7yzQM"></script>
+
+## Visitors
+
+<br>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_zC8YRIFlc0iDXzSA0WLcjUf25Ff878np1ts4X7yzQM&w=300"></script>
