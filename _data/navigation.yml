@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Softwares"  # software
-    url: /softwares/
+  - title: "Open-source"  # software
+    url: /open-source/
 
   - title: "Talks"  # youtube videos
     url: /talks/
