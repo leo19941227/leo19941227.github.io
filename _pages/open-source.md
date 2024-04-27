@@ -24,31 +24,31 @@ We also modularize all the SSL models into a standalone [PyPi package](https://p
 
 1. Install the S3PRL package:
 
-```sh
-pip install s3prl
-```
+    ```sh
+    pip install s3prl
+    ```
 
 2. Use it to extract representations for your own audio:
 
-```python
-import torch
-from s3prl.nn import S3PRLUpstream
+    ```python
+    import torch
+    from s3prl.nn import S3PRLUpstream
 
-model = S3PRLUpstream("hubert")
-model.eval()
+    model = S3PRLUpstream("hubert")
+    model.eval()
 
-with torch.no_grad():
-    wavs = torch.randn(2, 16000 * 2)
-    wavs_len = torch.LongTensor([16000 * 1, 16000 * 2])
-    all_hs, all_hs_len = model(wavs, wavs_len)
+    with torch.no_grad():
+        wavs = torch.randn(2, 16000 * 2)
+        wavs_len = torch.LongTensor([16000 * 1, 16000 * 2])
+        all_hs, all_hs_len = model(wavs, wavs_len)
 
-for hs, hs_len in zip(all_hs, all_hs_len):
-    assert isinstance(hs, torch.FloatTensor)
-    assert isinstance(hs_len, torch.LongTensor)
+    for hs, hs_len in zip(all_hs, all_hs_len):
+        assert isinstance(hs, torch.FloatTensor)
+        assert isinstance(hs_len, torch.LongTensor)
 
-    batch_size, max_seq_len, hidden_size = hs.shape
-    assert hs_len.dim() == 1
-```
+        batch_size, max_seq_len, hidden_size = hs.shape
+        assert hs_len.dim() == 1
+    ```
 
 ---
 
