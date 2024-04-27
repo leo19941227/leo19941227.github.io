@@ -18,7 +18,49 @@ The asterisk **<sup>*</sup>** next to the author's name indicates co-first autho
 
   **<u>Shu-wen Yang</u>**, [Heng-Jui Chang](https://people.csail.mit.edu/hengjui/), [Zili Huang](https://scholar.google.com/citations?user=iQ-S0fQAAAAJ&hl=en), [Andy T. Liu](https://andi611.github.io/), [Cheng-I Lai](https://people.csail.mit.edu/clai24/), [Haibin Wu](https://hbwu-ntu.github.io/), [Jiatong Shi](http://shijt.site/), [Xuankai Chang](https://www.xuankaic.com/), Hsiang-Sheng Tsai, [Wen-Chin Huang](https://unilight.github.io/), Tzu-hsun Feng, [Po-Han Chi](https://scholar.google.com/citations?user=SiyicoEAAAAJ&hl=zh-TW), [Yist Y. Lin](https://scholar.google.com/citations?user=0lrZq9MAAAAJ&hl=en), [Yung-Sung Chuang](https://people.csail.mit.edu/yungsung/), Tzu-Hsien Huang, [Wei-Cheng Tseng](https://scholar.google.com.tw/citations?user=-d6aNP0AAAAJ&hl=zh-TW), [Kushal Lakhotia](https://scholar.google.com/citations?user=w9W6zXUAAAAJ&hl=en), [Shang-Wen Li](https://swdanielli.github.io/), [Abdelrahman Mohamed](https://www.cs.toronto.edu/~asamir/), [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php)\\
   in **IEEE/ACM Transactions on Audio Speech and Language Processing**, 2024\\
-  [arxiv](https://arxiv.org/abs/2404.09385) / [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:9qlEbq1pkpYJ:scholar.google.com/&output=citation&scisdr=ClE8GXHwEIvNypv8C90:AFWwaeYAAAAAZiv6E93CpXURRNTilM_jICkFP-o&scisig=AFWwaeYAAAAAZiv6E1b7dGoK3wbSaVwBbrj2KWA&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1) / [code](https://github.com/s3prl/s3prl)
+  [arxiv](https://arxiv.org/abs/2207.04356) / [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:EVenBgKMZs4J:scholar.google.com/&output=citation&scisdr=ClE8Ga9vEIvNypzpzHY:AFWwaeYAAAAAZizv1HYnFab7obJnBVVVVLvUUio&scisig=AFWwaeYAAAAAZizv1Af5W9w-PzWuZcHsMdr4m3s&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1) / [code](https://github.com/s3prl/s3prl)
+
+
+- ### SUPERB @ SLT 2022: Challenge on Generalization and Efficiency of Self-Supervised Speech Representation Learning
+
+  Tzu-hsun Feng, Annie Dong, [Ching-Feng Yeh](https://scholar.google.com.tw/citations?hl=zh-TW&user=P7ma7pAAAAAJ&view_op=list_works&sortby=pubdate), **<u>Shu-wen Yang</u>**, [Tzu-Quan Lin](https://scholar.google.com.tw/citations?user=efKSVR8AAAAJ&hl=zh-TW), [Jiatong Shi](http://shijt.site/), [Kai-Wei Chang](https://kwchang.org/), [Zili Huang](https://scholar.google.com/citations?user=iQ-S0fQAAAAJ&hl=en), [Haibin Wu](https://hbwu-ntu.github.io/), [Xuankai Chang](https://www.xuankaic.com/), [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), [Abdelrahman Mohamed](https://www.cs.toronto.edu/~asamir/), [Shang-Wen Li](https://swdanielli.github.io/), [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php)\\
+  in **SLT**, 2022\\
+  [arxiv](https://arxiv.org/abs/2210.08634) / [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:sQNJEF06Uw4J:scholar.google.com/&output=citation&scisdr=ClE8Ga9vEIvNypz3CS0:AFWwaeYAAAAAZizxES3wyV4m0GYsRzQTeXNCgvo&scisig=AFWwaeYAAAAAZizxEUIA2XD2hYUruxh0EMTWNnE&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1) / [code](https://github.com/B06901052/DeepSpeed/tree/superb-challenge) / [website](https://www.slt2022.org/challenge-sessions.php)
+
+
+- ### A Comparative Study of Self-Supervised Speech Representation Based Voice Conversion
+
+  [Wen-Chin Huang](https://unilight.github.io/), **<u>Shu-wen Yang</u>**, [Tomoki Hayashi](https://kan-bayashi.github.io/), [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)\\
+  in **IEEE Journal of Selected Topics in Signal Processing**, 2022\\
+  [arxiv](https://arxiv.org/abs/2203.07960) / [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:ILPPMJIDtK4J:scholar.google.com/&output=citation&scisdr=ClE8Ga9vEI-AvYXrLzo:AFWwaeYAAAAAZiztNzp8jaJzVlKzIFsZ1mrQuq4&scisig=AFWwaeYAAAAAZiztN5UKTKRoUHQKue_VzEMFdmk&scisf=4&ct=citation&cd=-1&hl=zh-TW) / [code](https://github.com/unilight/s3prl-vc)
+
+
+- ### Self-supervised Representation Learning for Speech Processing
+
+  [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), [Abdelrahman Mohamed](https://www.cs.toronto.edu/~asamir/), [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), [Tara Sainath](https://sites.google.com/site/tsainath/), [Karen Livescu](https://home.ttic.edu/~klivescu/), [Shang-Wen Li](https://swdanielli.github.io/), **<u>Shu-wen Yang</u>**, [Katrin Kirchhoff](https://www.amazon.science/author/katrin-kirchhoff)\\
+  in **NAACL**, 2022\\
+  [tutorial proposal](https://aclanthology.org/2022.naacl-tutorials.2/) / [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:cSZtjOXjk5wJ:scholar.google.com/&output=citation&scisdr=ClE8Ga9vEIvNypzo-to:AFWwaeYAAAAAZizu4trktbG9yfkLd9chzCE6_eU&scisig=AFWwaeYAAAAAZizu4pA-PKJbFMNIC7rAPgzXuRw&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1) / [video](https://www.youtube.com/watch?v=22IE8swBEbQ&list=PLmBa5a9Ne6fU-1H0EIFjoUJSjSmB1RcSx)
+
+
+- ### Investigating Self-Supervised Learning for Speech Enhancement and Separation
+
+  [Zili Huang](https://scholar.google.com/citations?user=iQ-S0fQAAAAJ&hl=en), [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), **<u>Shu-wen Yang</u>**, [Paola Garcia](https://scholar.google.com/citations?user=fAXgPckAAAAJ&hl=en), [Sanjeev Khudanpur](https://engineering.jhu.edu/faculty/sanjeev-khudanpur/)\\
+  in **ICASSP**, 2022\\
+  [arxiv](https://arxiv.org/abs/2203.07960) / [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:ILPPMJIDtK4J:scholar.google.com/&output=citation&scisdr=ClE8Ga9vEI-AvYXrLzo:AFWwaeYAAAAAZiztNzp8jaJzVlKzIFsZ1mrQuq4&scisig=AFWwaeYAAAAAZiztN5UKTKRoUHQKue_VzEMFdmk&scisf=4&ct=citation&cd=-1&hl=zh-TW) / [code](https://github.com/s3prl/s3prl)
+
+
+- ### DistilHuBERT: Speech Representation Learning by Layer-wise Distillation of Hidden-unit BERT
+
+  [Heng-Jui Chang](https://people.csail.mit.edu/hengjui/), **<u>Shu-wen Yang</u>**, [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php)\\
+  in **ICASSP**, 2022\\
+  [arxiv](https://arxiv.org/abs/2110.01900) / [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:o3YRIWshZbwJ:scholar.google.com/&output=citation&scisdr=ClE8Ga9vEI-AvYXqGp8:AFWwaeYAAAAAZizsAp8eYI6iCi-Dijs3wkSzQac&scisig=AFWwaeYAAAAAZizsAjoWshp4wu5eMPz_pfRjgNY&scisf=4&ct=citation&cd=-1&hl=zh-TW) / [code](https://github.com/s3prl/s3prl) / [huggingface](https://huggingface.co/ntu-spml/distilhubert)
+
+
+- ### S3PRL-VC: Open-Source Voice Conversion Framework with Self-Supervised Speech Representations
+
+  [Wen-Chin Huang](https://unilight.github.io/), **<u>Shu-Wen Yang</u>**, [Tomoki Hayashi](https://kan-bayashi.github.io/), [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), [Tomoki Toda](https://sites.google.com/site/tomokitoda/home_eng)\\
+  in **ICASSP**, 2022\\
+  [arxiv](https://arxiv.org/abs/2110.06280) / [bib](https://scholar.googleusercontent.com/scholar.bib?q=info:069OXCu4enQJ:scholar.google.com/&output=citation&scisdr=ClE8Ga9vEI-AvYXtBUs:AFWwaeYAAAAAZizrHUvG3-ssJSr0BnET9X7uFw4&scisig=AFWwaeYAAAAAZizrHW97Y-n92EdEfQHIQHan0KM&scisf=4&ct=citation&cd=-1&hl=zh-TW) / [code](https://github.com/unilight/s3prl-vc) / [demo](https://huggingface.co/spaces/unilight/s3prl-vc-vcc2020)
 
 
 - ### SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities
