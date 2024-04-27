@@ -53,4 +53,4 @@ If you are interested in collaborating, please reach me at my email: <ins>leo199
 ## Visitors
 
 <br>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_zC8YRIFlc0iDXzSA0WLcjUf25Ff878np1ts4X7yzQM&w=300"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_zC8YRIFlc0iDXzSA0WLcjUf25Ff878np1ts4X7yzQM&w=200"></script>
