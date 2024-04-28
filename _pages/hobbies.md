@@ -20,11 +20,13 @@ Here is my very preliminary and immature interpretation of Debussy's Clair de Lu
 ## Films & Anime
 
 Besides piano, I also enjoy films and anime, including their soundtracks.
-My favorite soundtrack is from [The Legend of 1900](https://open.spotify.com/album/7mvtoNR8DAFxZkvbpJ7SjU), especially the piece 'The Crisis.' You can listen to it here:
+One of my favorite and popular soundtrack is from [The Legend of 1900](https://open.spotify.com/album/7mvtoNR8DAFxZkvbpJ7SjU), especially the piece 'The Crisis.' You can listen to it here:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5qu9xgYAZ2JbDXqssUMP7N?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <br>
+I curated a [favorite soundtrack list](https://www.youtube.com/watch?v=v1Go3FtdT-U&list=PLmBa5a9Ne6fXoscBZ0dx0dIE4kjSjI8GK) at my immature age of 19, with a [storyline in Mandarin](https://leo19941227.wordpress.com/2014/03/07/soundtrack-collection-life-play/), in case you're interested.
+(I actually have few to no friends sharing the interest in film soundtracks...)
+
 Below are some of my favorite works and lines.
 Non-English lines were translated to English using ChatGPT 4 with the following prompt:
 
