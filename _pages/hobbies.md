@@ -17,10 +17,15 @@ Here is my very preliminary and immature interpretation of Debussy's Clair de Lu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I5zyKxH7hIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Movies & Anime
+## Films & Anime
 
-Besides piano, I also enjoy watching movies and anime.
-Here are some of my favorite works and lines.
+Besides piano, I also enjoy films and anime, including their soundtracks.
+My favorite soundtrack is from [The Legend of 1900](https://open.spotify.com/album/7mvtoNR8DAFxZkvbpJ7SjU), especially the piece 'The Crisis.' You can listen to it here:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5qu9xgYAZ2JbDXqssUMP7N?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+Below are some of my favorite works and lines.
 Non-English lines were translated to English using ChatGPT 4 with the following prompt:
 
 > You are a professor of classical English literature, aspiring to author a timeless literary masterpiece. Please incorporate the following foreign lines into your epoch-making work, using a style characteristic of classic literature: ...
