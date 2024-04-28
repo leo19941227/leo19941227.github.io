@@ -38,32 +38,32 @@ Non-English lines were translated to English using ChatGPT 4 with the following 
 
     > Be mindful of your thoughts. --- Obi-Wan Kenobi.
 
-* ### [Crouching Tiger, Hidden Dragon](https://www.imdb.com/title/tt0190332/) ([Ang Lee](https://en.wikipedia.org/wiki/Ang_Lee))
-
-    > Li Mu Bai is but an empty title, as are the sects, the sword techniques, and even this Qing Ming Sword. All are but empty titles. --- Li Mu Bai.
-
 * ### [The Grandmaster](https://www.imdb.com/title/tt1462900/) ([Wong Kar-wai](https://en.wikipedia.org/wiki/Wong_Kar-wai))
 
     > One must look afar. Once over the mountain, the horizon broadens. --- Gong Baosen.
 
     > Those who dwell persistently upon a thought will surely hear its echo; where there is light, there too are people. --- Gong Baosen.
 
-    > The vastness of the world extends well beyond the mere compass of north and south. To strive for absolute perfection is to doom oneself to stagnation. In your perception, this pie may represent a martial faction; yet, to me, it symbolizes the entire world. True greatness harbors imperfection, for only through our flaws can we truly progress. If the method proves effective, why then should the Southern Fist be confined only to the north? Do you agree? --- Ip Man.
+    > The vastness of the world extends well beyond the mere compass of north and south. To strive for absolute perfection is to doom oneself to stagnation. In your eyes, this pie may represent a martial faction; yet, to me, it symbolizes the entire world. True greatness harbors imperfection, for only through our flaws can we truly progress. If the method proves effective, why then should the Southern Fist be confined only to the propagation northward? Do you agree? --- Ip Man.
+
+* ### [Crouching Tiger, Hidden Dragon](https://www.imdb.com/title/tt0190332/) ([Ang Lee](https://en.wikipedia.org/wiki/Ang_Lee))
+
+    > Li Mu Bai is but an empty title, as are the sects, the sword techniques, and even this Qing Ming Sword. All are but empty titles. --- Li Mu Bai.
 
 Of all the lines, the following lines are my absolute favorite. I've watched this anime over 100 times (literally).
 
 * ### [Ping Pong the Animation](https://www.imdb.com/title/tt3592032/) ([Taiyō Matsumoto](https://en.wikipedia.org/wiki/Taiy%C5%8D_Matsumoto) & [Yuasa Masaaki](https://en.wikipedia.org/wiki/Masaaki_Yuasa))
 
-    > **(I'm slowly getting left behind, can't keep up. It's pretty clear who's winning and who's losing, but I'm not worried at all. I'm giving my all in hitting the ball, straining every nerve to react, no time to be afraid.) --- Dragon**
+    > **(I'm slowly getting left behind, can't keep up. It's pretty clear who's winning and who's losing, but I'm not worried at all. I'm giving my all in hitting the ball, straining every nerve to react, no time to be afraid.) --- Ryuichi Kazama, dragon.**
 
-    > Something wrong? --- Yutaka Hoshino
+    > Something wrong? --- Yutaka Hoshino.
 
     > **Nothing really, it feels really comfortable.**
 
-    > Yeah.\\
+    > Indeed. Yeah!\\
     > We're at match point now, dragon.
 
-    > **I guess this is where I stop, hero.**
+    > **Yeah. I guess this is where I stop, hero.**
 
     > Ah...
 
@@ -71,10 +71,13 @@ Of all the lines, the following lines are my absolute favorite. I've watched thi
 
     > ... (silent smile)
 
-    > **Is that so? ...**\\
+    > **... I see. (smile)**
+
+    > (smile)
+
     > **(All the cells in my body are ecstatic, they're commanding me to speed up. Speed up, speed up. As heroes grow quickly, I'm slowly being left behind. No need to rush, no need to fear. There's no need... to be afraid. It's nice here. It's wonderful here.)**
 
-    > You are really cool, dragon.
+    > You are awesome, dragon.
 
-    > **(That's true. Humans can fly.)**\\
+    > **(Truly, humans can fly.)**\\
     > **(Humans really can fly.)**
