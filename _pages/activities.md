@@ -12,7 +12,7 @@ Here are some of my activities in research communities.
     * Audio Foundation Models
 * **Visiting Scholar**: [8th JASLT Summer Workshop](https://jsalt-2022-ssl.github.io/member), Johns Hopkins University, Baltimore, United States\\
 *(2022/6 - 2022/8)*
-    * Release the [PyPi package](https://pypi.org/project/s3prl/) of S3PRL, the package is now used by [numerous open-source projects](https://github.com/s3prl/s3prl/network/dependents), including [ESPNet](https://github.com/espnet/espnet).
+    * Release the [PyPi package](https://pypi.org/project/s3prl/) of S3PRL, the package is now used by [numerous open-source projects](https://github.com/s3prl/s3prl/network/dependents), including [ESPnet](https://github.com/espnet/espnet).
 
 ## Workshop/Tutorial Organizing Committee
 
