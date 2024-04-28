@@ -30,7 +30,7 @@ Non-English lines were translated to English using ChatGPT 4 with the following 
 
 * ### [Star Wars 1-6](https://www.imdb.com/list/ls070150896/) ([George Lucas](https://en.wikipedia.org/wiki/George_Lucas))
 
-    > Named must your Fear be before banish it you can. --- Yoda.
+    > Named must your fear be before banish it you can. --- Yoda.
 
     > Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering. I sense much fear in you. --- Yoda.
 
