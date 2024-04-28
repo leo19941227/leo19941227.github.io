@@ -12,7 +12,7 @@ title                    : "Shu-wen (Leo) Yang"
 title_separator          : "-"
 name                     : &name "Shu-wen (Leo) Yang"
 description              : &description "personal description"
-url                      : https://leo19941227.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://leo19941227.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leo19941227/leo19941227.github.io"
 
