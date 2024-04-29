@@ -32,7 +32,7 @@ I also co-founded the [S3PRL Toolkit](https://github.com/s3prl/s3prl) with [Andy
 The major contributors are highlighted in the [Change Log](https://github.com/s3prl/s3prl?tab=readme-ov-file#change-log). The toolkit supports the pre-training of several classical SSL methods, benchmarking of numerous downstream tasks, and offers the most [comprehensive collection of pre-trained SSL models](https://s3prl.github.io/s3prl/tutorial/upstream_collection.html) to track research history. It is widely used by the community, including toolkits like [ESPnet](https://github.com/espnet/espnet?tab=readme-ov-file#asr-automatic-speech-recognition), [S3PRL-VC](https://github.com/unilight/s3prl-vc) and [numerous open-source projects](https://github.com/s3prl/s3prl/network/dependents).
 
 I am always open to collaborations involving dense and deep discussions, where I can learn from new explorations and intense debates regardless of co-authorship.
-If you are interested in collaborating, please reach me at my email: <ins>leo19941227@gmail.com</ins>.
+If you are interested in collaborating, please reach me at my email: [leo19941227@gmail.com](mailto:leo19941227@gmail.com).
 
 
 ## Selected Publications
