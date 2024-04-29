@@ -4,7 +4,7 @@ title: "Hobbies"
 ---
 
 I have found it extremely important to maintain a work-life balance.
-In the end, what really matters is to be alive and live in peace and joy.
+Eventually, what really matters is to be alive and live in peace and joy!
 
 ## Piano
 
