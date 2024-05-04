@@ -8,7 +8,7 @@ Here are some of my activities in research communities.
 ## Research Experiences
 
 * **Applied Scientist Intern**: Amazon AGI, United States\\
-*(2024/7 - 2024/9)*
+*(2024/8 - 2024/10)*
     * Audio Foundation Models
 * **Visiting Scholar**: [8th JASLT Summer Workshop](https://jsalt-2022-ssl.github.io/member), Johns Hopkins University, Baltimore, United States\\
 *(2022/6 - 2022/8)*

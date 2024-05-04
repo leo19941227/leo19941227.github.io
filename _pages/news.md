@@ -3,6 +3,7 @@ permalink: /news/
 title: "News"
 ---
 
+- **(05 / 2024)** I will be interning at Amazon AGI for Audio Foundation Model this summer!
 - **(04 / 2024)** I finally have my personal website! It has taken me much more time to build it than I thought, but it was worth it!
 - **(04 / 2024)** My new journal article, [A Large-Scale Evaluation of Speech Foundation Models](https://arxiv.org/abs/2404.09385), is accepted to IEEE/ACM TASLP!
 - **(04 / 2024)** I passed my Doctoral Qualification Examination! One step closer to graduation!
