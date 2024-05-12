@@ -57,6 +57,10 @@ Non-English lines were translated to English using ChatGPT 4 with the following 
 
     > Li Mu Bai is but an empty title, as are the sects, the sword techniques, and even this Qing Ming Sword. All are but empty titles. --- Li Mu Bai.
 
+* ### [Batman Begins](https://www.imdb.com/title/tt0372784/) ([Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan))
+
+    > It's not who you are underneath, it's what you do that defines you. --- Rachel Dawes.
+
 Of all the lines, the following lines are my absolute favorite. I've watched this anime over 100 times (literally).
 
 * ### [Ping Pong the Animation](https://www.imdb.com/title/tt3592032/) ([Taiyō Matsumoto](https://en.wikipedia.org/wiki/Taiy%C5%8D_Matsumoto) & [Yuasa Masaaki](https://en.wikipedia.org/wiki/Masaaki_Yuasa))
