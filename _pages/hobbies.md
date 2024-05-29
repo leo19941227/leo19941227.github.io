@@ -12,11 +12,6 @@ Besides my academic pursuits, I love playing the piano in my free time. I have b
 
 Despite that, I am now more attracted to classical piano pieces, which possess more sophisticated structures and delicate sound variations (there is no true love...). I am guided by [Yiin-bin Yang](https://www.linkedin.com/in/yiin-bin-yang-a844267a/?originalSubdomain=en) in this endeavor. It has been a wonderful journey to explore the connection between music and scientific research, especially in their common purpose to deliver meaningful messages.
 
-Here is my very preliminary and immature interpretation of Debussy's Clair de Lune. I am still working on it and hope that one day, I can deliver even better sound, story, and meaningful interpretations (and <del>papers</del>).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I5zyKxH7hIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 ## Films & Anime
 
 Besides piano, I also enjoy films and anime, including their soundtracks.
