@@ -11,7 +11,3 @@ Here is a collection of my talks and presentations, grouped by categories.
 - **Conference presentation for SUPERB**, Interspeech 2021
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zd9fiVvej0k?si=QHCW-ykzJ8wFuS0X" title="SUPERB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- **Presentation in Mandarin**, Foxconn Technology Award 2023
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/j-vwSwi6iZg?si=4UxF3-H91VlnY4aO" title="SUPERB (Mandarin)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
