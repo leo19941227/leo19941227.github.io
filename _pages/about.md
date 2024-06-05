@@ -10,7 +10,6 @@ redirect_from:
 Hi! I am Leo, a Ph.D. candidate in computer science at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) and [Lin-shan Lee](https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the Speech Processing and Machine Learning (SPML) Group.
 I am fortunate enough to work with several thoughtful and respectable senior researchers, including [Shinji Watanabe (CMU)](https://sites.google.com/view/shinjiwatanabe) and [Abdelrahman Mohamed (Meta/Rembrand)](https://www.cs.toronto.edu/~asamir/).
 I also learn a lot from and am continuously motivated by several strong peers, including [Jiatong Shi (CMU)](http://shijt.site/), [Wen-Chin Huang (Nagoya)](https://unilight.github.io/), and [Andy T. Liu (NTU)](https://andi611.github.io/).
-Finally, I enjoy playing the piano in my free time, where I draw numerous inspirations from the connection between music and research, all thanks to my classical piano teacher, [Yiin-bin Yang](https://www.linkedin.com/in/yiin-bin-yang-a844267a/?originalSubdomain=en). ([See my hobbies](hobbies/))
 
 (My [Curriculum Vitae](https://drive.google.com/file/d/13MlqgO1dAaqib4jw0zRX7BLNHqYhs7zG/view?usp=sharing))
 
@@ -48,7 +47,7 @@ If you are interested in collaborating, please reach me at my email: [leo1994122
 
   **<u>Shu-wen Yang</u>**, [Heng-Jui Chang](https://people.csail.mit.edu/hengjui/), [Zili Huang](https://scholar.google.com/citations?user=iQ-S0fQAAAAJ&hl=en), [Andy T. Liu](https://andi611.github.io/), [Cheng-I Lai](https://people.csail.mit.edu/clai24/), [Haibin Wu](https://hbwu-ntu.github.io/), [Jiatong Shi](http://shijt.site/), [Xuankai Chang](https://www.xuankaic.com/), Hsiang-Sheng Tsai, [Wen-Chin Huang](https://unilight.github.io/), Tzu-hsun Feng, [Po-Han Chi](https://scholar.google.com/citations?user=SiyicoEAAAAJ&hl=zh-TW), [Yist Y. Lin](https://scholar.google.com/citations?user=0lrZq9MAAAAJ&hl=en), [Yung-Sung Chuang](https://people.csail.mit.edu/yungsung/), Tzu-Hsien Huang, [Wei-Cheng Tseng](https://scholar.google.com.tw/citations?user=-d6aNP0AAAAJ&hl=zh-TW), [Kushal Lakhotia](https://scholar.google.com/citations?user=w9W6zXUAAAAJ&hl=en), [Shang-Wen Li](https://swdanielli.github.io/), [Abdelrahman Mohamed](https://www.cs.toronto.edu/~asamir/), [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php)\\
   in **IEEE/ACM Transactions on Audio Speech and Language Processing**, 2024\\
-  [arxiv](https://arxiv.org/abs/2404.09385) / [code](https://github.com/s3prl/s3prl)
+  [arxiv](https://arxiv.org/abs/2404.09385) (preferred) / [ieee](https://ieeexplore.ieee.org/document/10502279) / [code](https://github.com/s3prl/s3prl)
 
 
 ## Visitors

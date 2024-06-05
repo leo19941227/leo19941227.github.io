@@ -6,15 +6,9 @@ title: "Hobbies"
 I have found it extremely important to maintain a work-life balance.
 Eventually, what really matters is to be alive and live in peace and joy!
 
-## Piano
-
-Besides my academic pursuits, I love playing the piano in my free time. I have been a big fan of [Animenz](https://www.youtube.com/@Animenzzz) since 2015; he is the one who really made me start enjoying playing the piano. [His piano arrangement](https://www.youtube.com/watch?v=1zKejX-up-k) for the anime [Nagi no Asukara](https://en.wikipedia.org/wiki/Nagi-Asu:_A_Lull_in_the_Sea) deeply attracted and influenced me, and I've been practicing that piece for over **8 years**! (This is true love...)
-
-Despite that, I am now more attracted to classical piano pieces, which possess more sophisticated structures and delicate sound variations (there is no true love...). I am guided by [Yiin-bin Yang](https://www.linkedin.com/in/yiin-bin-yang-a844267a/?originalSubdomain=en) in this endeavor. It has been a wonderful journey to explore the connection between music and scientific research, especially in their common purpose to deliver meaningful messages.
-
 ## Films & Anime
 
-Besides piano, I also enjoy films and anime, including their soundtracks.
+I enjoy films and anime, including their soundtracks.
 One of my favorite and popular soundtrack is from [The Legend of 1900](https://open.spotify.com/album/7mvtoNR8DAFxZkvbpJ7SjU), especially the piece 'The Crisis.' You can listen to it here:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5qu9xgYAZ2JbDXqssUMP7N?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
