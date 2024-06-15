@@ -4,7 +4,16 @@ title: "Hobbies"
 ---
 
 I have found it extremely important to maintain a work-life balance.
-Eventually, what really matters is to be alive and live in peace and joy!
+In the end, what really matters is to be alive and live in peace and joy!
+
+## Piano
+
+Besides my academic pursuits, I love playing the piano in my free time. I have been a big fan of [Animenz](https://www.youtube.com/@Animenzzz) since 2015; he is the one who really made me start enjoying playing the piano. [His piano arrangement](https://www.youtube.com/watch?v=1zKejX-up-k) for the anime [Nagi no Asukara](https://en.wikipedia.org/wiki/Nagi-Asu:_A_Lull_in_the_Sea) deeply attracted and influenced me, and I've been playing that piece for over **8 years**! (This is true love...)
+
+Despite that, I am now more attracted to classical piano pieces, which possess more sophisticated structures and delicate sound variations (there is no true love...). Here is my very preliminary and immature interpretation of Debussy's Clair de Lune. I am still working on it and hope that one day, I can deliver even better sound, story, and meaningful interpretations (and <del>papers</del>).
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1847888622&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/leo19941227" title="Shu-wen (Leo) Yang" target="_blank" style="color: #cccccc; text-decoration: none;">Shu-wen (Leo) Yang</a> · <a href="https://soundcloud.com/leo19941227/shu-wen-yang-debussy-clair-de-lune" title="Debussy: Clair De Lune" target="_blank" style="color: #cccccc; text-decoration: none;">Debussy: Clair De Lune</a></div>
+
 
 ## Films & Anime
 
