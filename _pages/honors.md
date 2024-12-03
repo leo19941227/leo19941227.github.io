@@ -3,6 +3,9 @@ permalink: /honors/
 title: "Honors"
 ---
 
+* **Google PhD Fellowship** *(2024)*
+    * USD 1,000
+    * 85 winners worldwide
 * **Foxconn Technology Award** *(2023)*
     * USD 8,000
     * 22 winners from Taiwan

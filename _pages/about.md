@@ -10,6 +10,7 @@ redirect_from:
 Hi! I am Leo, a Ph.D. candidate in computer science at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) and [Lin-shan Lee](https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the Speech Processing and Machine Learning (SPML) Group.
 I am fortunate enough to work with several thoughtful and respectable senior researchers, including [Shinji Watanabe (CMU)](https://sites.google.com/view/shinjiwatanabe) and [Abdelrahman Mohamed (Meta/Rembrand)](https://www.cs.toronto.edu/~asamir/).
 I also learn a lot from and am continuously motivated by several strong peers, including [Jiatong Shi (CMU)](http://shijt.site/), [Wen-Chin Huang (Nagoya)](https://unilight.github.io/), and [Andy T. Liu (NTU)](https://andi611.github.io/).
+I am also honored to be awarded the [Google PhD Fellowship 2024](https://research.google/programs-and-events/phd-fellowship/recipients/).
 Finally, I enjoy playing the piano in my free time, under the guidance of [Yiin Bin Yang](https://www.linkedin.com/in/yiin-bin-yang-a844267a). (See [my hobbies](./hobbies.md))
 
 (My [Curriculum Vitae](https://drive.google.com/file/d/13MlqgO1dAaqib4jw0zRX7BLNHqYhs7zG/view?usp=sharing))

@@ -9,7 +9,7 @@ Here are some of my activities in research communities.
 
 * **Applied Scientist Intern**: Amazon AGI, United States\\
 *(2024/8 - 2024/10)*
-    * Audio Foundation Models
+    * Decoder-only Audio Generation
     * Host: [Chieh-Chi Kao](https://scholar.google.com/citations?user=BFP-otkAAAAJ&hl=en), [Qingming Tang](https://home.ttic.edu/~qmtang/) and [Byeonggeun Kim](https://sites.google.com/view/byeonggeun-kim)
 * **Visiting Scholar**: [8th JASLT Summer Workshop](https://jsalt-2022-ssl.github.io/member), Johns Hopkins University, Baltimore, United States\\
 *(2022/6 - 2022/8)*
