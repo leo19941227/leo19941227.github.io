@@ -10,7 +10,7 @@ In the end, what really matters is to be alive and live in peace and joy!
 
 Besides my academic pursuits, I love playing the piano in my free time. I have been a big fan of [Animenz](https://www.youtube.com/@Animenzzz) since 2015; he is the one who really made me start enjoying playing the piano. [His piano arrangement](https://www.youtube.com/watch?v=1zKejX-up-k) for the anime [Nagi no Asukara](https://en.wikipedia.org/wiki/Nagi-Asu:_A_Lull_in_the_Sea) deeply attracted and influenced me, and I've been playing that piece for over **8 years**! (This is true love...)
 
-Despite that, I am now more attracted to classical piano pieces, which possess more sophisticated structures and delicate sound variations (there is no true love...). I am guided by [Yiin Bin Yang](https://www.linkedin.com/in/yiin-bin-yang-a844267a) in this endeavor. It has been a wonderful journey to explore the connection between music and scientific research, especially in their common purpose to deliver meaningful messages.
+Despite that, I am now more attracted to classical piano pieces, which possess more sophisticated structures and delicate sound variations (there is no true love...). I am guided by my respected mentor [Yiin Bin Yang](https://www.linkedin.com/in/yiin-bin-yang-a844267a) in this endeavor. It has been a wonderful journey to explore the connection between music and scientific research, especially in their common purpose to deliver meaningful messages.
 
 Here is my very preliminary and immature interpretation of Debussy's Clair de Lune. I am still working on it and hope that one day, I can deliver even better sound, story, and meaningful interpretations (and <del>papers</del>).
 
