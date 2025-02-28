@@ -9,7 +9,7 @@ redirect_from:
 
 > [My publication list](https://scholar.google.com/citations?user=R1mNI8QAAAAJ&hl=en)
 
-Shu-wen Yang is a Ph.D. candidate in computer science at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Prof. Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) and [Prof. Lin-shan Lee](https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the Speech Processing and Machine Learning (SPML) Group.
+Shu-wen Yang is a Ph.D. candidate in computer science at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Prof. Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) and [Prof. Lin-shan Lee](https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 His research interest lies in representation learning for general speech encoders. He has published over 10 papers in speech-related top conferences and journals. His research has accumulated over 2,100 citations and an h-index of 14 on Google Scholar. He co-organized the SUPERB benchmark and challenge, now adopted by over 40 institutions. He also co-created the S3PRL speech toolkit, which has earned over 2,300 stars on GitHub and is used by more than 150 open-source projects. He gave tutorials on speech representations at NAACL 2022, ICASSP 2022, and Interspeech 2022. He co-organized the SUPERB Challenge @ IEEE SLT 2022 and SPARKS Workshop @ IEEE ASRU 2023. He received the Google Ph.D. Fellowship in 2024.
 Finally, he enjoy playing the piano in the free time, under the guidance of [Yiin Bin Yang](https://www.linkedin.com/in/yiin-bin-yang-a844267a). (See [my hobbies](./hobbies.md))
 
