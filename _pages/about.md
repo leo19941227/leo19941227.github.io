@@ -9,17 +9,15 @@ redirect_from:
 
 > [My publication list](https://scholar.google.com/citations?user=R1mNI8QAAAAJ&hl=en)
 
-Hi! I am Leo, a Ph.D. candidate in computer science at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) and [Lin-shan Lee](https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the Speech Processing and Machine Learning (SPML) Group.
-I am fortunate enough to work with several thoughtful and respectable senior researchers, including [Shinji Watanabe (CMU)](https://sites.google.com/view/shinjiwatanabe) and [Abdelrahman Mohamed (Meta/Rembrand)](https://www.cs.toronto.edu/~asamir/).
-I also learn a lot from and am continuously motivated by several strong peers, including [Jiatong Shi (CMU)](http://shijt.site/), [Wen-Chin Huang (Nagoya)](https://unilight.github.io/), and [Andy T. Liu (NTU)](https://andi611.github.io/).
-I am also honored to be awarded the [Google PhD Fellowship 2024](https://research.google/programs-and-events/phd-fellowship/recipients/).
-Finally, I enjoy playing the piano in my free time, under the guidance of my respected mentor [Yiin Bin Yang](https://www.linkedin.com/in/yiin-bin-yang-a844267a). (See [my hobbies](./hobbies.md))
+Shu-wen Yang is a Ph.D. candidate in computer science at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Prof. Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) and [Prof. Lin-shan Lee](https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) in the Speech Processing and Machine Learning (SPML) Group.
+His research interest lies in representation learning for general speech encoders. He has published over 10 papers in speech-related top conferences and journals. His research has accumulated over 2,100 citations and an h-index of 14 on Google Scholar. He co-organized the SUPERB benchmark and challenge, now adopted by over 40 institutions. He also co-created the S3PRL speech toolkit, which has earned over 2,300 stars on GitHub and is used by more than 150 open-source projects. He gave tutorials on speech representations at NAACL 2022, ICASSP 2022, and Interspeech 2022. He co-organized the SUPERB Challenge @ IEEE SLT 2022 and SPARKS Workshop @ IEEE ASRU 2023. He received the Google Ph.D. Fellowship in 2024.
+Finally, I enjoy playing the piano in my free time, under the guidance of [Yiin Bin Yang](https://www.linkedin.com/in/yiin-bin-yang-a844267a). (See [my hobbies](./hobbies.md))
 
 (My [Curriculum Vitae](https://drive.google.com/file/d/13MlqgO1dAaqib4jw0zRX7BLNHqYhs7zG/view?usp=sharing))
 
 ---
 
-My research is dedicated to developing a human-level perception system that comprehensively understands speech—from acoustics to linguistics—and its interplay with other modalities such as audio, vision, and natural language. My primary direction is on representation learning, a field that has garnered various names recently. My recent efforts concentrate on self-supervised learning, representation generalizability, and efficient pre-training.
+My primary direction is on speech representation learning, a field that has garnered various names recently. My recent efforts concentrate on self-supervised learning, representation generalizability, and efficient pre-training.
 
 - **Self-Supervised Learning (SSL)**: Learning speech representations from unlabeled data. We discover that speech SSL techniques lead to representations with strong task generalizability beyond Automatic Speech Recognition (ASR).
 Additionally, we explore their use across a broad spectrum of real-life speech applications, which marks the beginning of the era of speech foundation models (SFM).
@@ -28,7 +26,9 @@ Additionally, we explore their use across a broad spectrum of real-life speech a
 
 - **Efficient Pre-training**: All existing SFMs require industrial-level computing, which makes further research monopolized by large corporations. I am currently working on how to pre-train SFMs efficiently within academic resources.
 
----
+
+## Selected Projects
+
 
 I coordinated (as the research and engineering lead) the initial version of [SUPERB (Speech processing Universal PERformance Benchmark)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=R1mNI8QAAAAJ&citation_for_view=R1mNI8QAAAAJ:9yKSN-GCB0IC), where the proposed speech foundation model (SFM) paradigm has influenced numerous works, as seen in additional benchmarks like [SUPERB-SG](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=R1mNI8QAAAAJ&citation_for_view=R1mNI8QAAAAJ:Tyk-4Ss8FVUC), [SUPERB-prosody](https://arxiv.org/abs/2210.07185), [ML-SUPERB](https://arxiv.org/abs/2305.10615), and [Dynamic-SUPERB](https://arxiv.org/abs/2309.09510). This influence extends to the development of SFMs, such as [Unispeech-SAT](https://arxiv.org/abs/2110.05752), [WavLM](https://arxiv.org/abs/2110.13900), and the compression of SFMs, including [DistilHuBERT](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=R1mNI8QAAAAJ&citation_for_view=R1mNI8QAAAAJ:qjMakFHDy7sC), [LightHuBERT](https://arxiv.org/abs/2203.15610), and [ARMHuBERT](https://arxiv.org/abs/2305.11685).
 
