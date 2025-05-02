@@ -52,6 +52,12 @@ If you are interested in collaborating, please reach me at my email: [leo1994122
   in **IEEE/ACM Transactions on Audio Speech and Language Processing**, 2024\\
   [arxiv](https://arxiv.org/abs/2404.09385) (preferred) / [ieee](https://ieeexplore.ieee.org/document/10502279) / [code](https://github.com/s3prl/s3prl)
 
+* ### Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction
+
+  **<u>Shu-wen Yang</u>**, [Byeonggeun Kim](https://sites.google.com/view/byeonggeun-kim), [Kuan-Po Huang](https://scholar.google.com/citations?user=cgTcTMoAAAAJ&hl=zh-TW), [Qingming Tang](https://home.ttic.edu/~qmtang/), [Huy Phan](https://pquochuy.github.io/), [Bo-Ru Lu](https://nlp.borulu.com/), [Harsha Sundar](https://scholar.google.com/citations?user=2-kP7ZQAAAAJ&hl=zh-TW), [Shalini Ghosh](https://sites.google.com/site/shalinighosh), [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), [Chieh-Chi Kao](https://scholar.google.com/citations?user=BFP-otkAAAAJ&hl=en), [Chao Wang](https://scholar.google.com/citations?user=Ucw6EJAAAAAJ&hl=en)\\
+  in **ICML**, 2025\\
+  [arxiv (comming soon)]()
+
 
 ## Visitors
 

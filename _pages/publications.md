@@ -15,23 +15,23 @@ The asterisk **<sup>*</sup>** next to the author's name indicates co-first autho
 
 - ### Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction
 
-  **<u>Shu-wen Yang</u>**, [Byeonggeun Kim](), [Kuan-Po Huang](), [Qingming Tang](), [Huy Phan](), [Bo-Ru Lu](), [Harsha Sundar](), [Shalini Ghosh](), [Hung-yi Lee](), [Chieh-Chi Kao](), [Chao Wang]()\\
+  **<u>Shu-wen Yang</u>**, [Byeonggeun Kim](https://sites.google.com/view/byeonggeun-kim), [Kuan-Po Huang](https://scholar.google.com/citations?user=cgTcTMoAAAAJ&hl=zh-TW), [Qingming Tang](https://home.ttic.edu/~qmtang/), [Huy Phan](https://pquochuy.github.io/), [Bo-Ru Lu](https://nlp.borulu.com/), [Harsha Sundar](https://scholar.google.com/citations?user=2-kP7ZQAAAAJ&hl=zh-TW), [Shalini Ghosh](https://sites.google.com/site/shalinighosh), [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), [Chieh-Chi Kao](https://scholar.google.com/citations?user=BFP-otkAAAAJ&hl=en), [Chao Wang](https://scholar.google.com/citations?user=Ucw6EJAAAAAJ&hl=en)\\
   in **ICML**, 2025\\
-  [arxiv](https://arxiv.org/abs/2404.09385) (preferred) / [code](https://github.com/s3prl/s3prl)
+  [arxiv (comming soon)]()
 
 
 - ### IMPACT: Iterative Mask-based Parallel Decoding for Text-to-Audio Generation with Diffusion Modeling
 
-  [Kuan-Po Huang](), **<u>Shu-wen Yang</u>**, [Huy Phan](), [Bo-Ru Lu](), [Byeonggeun Kim](), [Sashank Macha](), [Qingming Tang](), [Shalini Ghosh](), [Hung-yi Lee](), [Chieh-Chi Kao](), [Chao Wang]()\\
+  [Kuan-Po Huang](https://scholar.google.com/citations?user=cgTcTMoAAAAJ&hl=zh-TW), **<u>Shu-wen Yang</u>**, [Huy Phan](https://pquochuy.github.io/), [Bo-Ru Lu](https://nlp.borulu.com/), [Byeonggeun Kim](https://sites.google.com/view/byeonggeun-kim), [Sashank Macha](https://scholar.google.com/citations?user=0wOpyncAAAAJ&hl=en), [Qingming Tang](https://home.ttic.edu/~qmtang/), [Shalini Ghosh](https://sites.google.com/site/shalinighosh), [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php), [Chieh-Chi Kao](https://scholar.google.com/citations?user=BFP-otkAAAAJ&hl=en), [Chao Wang](https://scholar.google.com/citations?user=Ucw6EJAAAAAJ&hl=en)\\
   in **ICML**, 2025\\
-  [arxiv](https://arxiv.org/abs/2404.09385) (preferred) / [code](https://github.com/s3prl/s3prl)
+  [arxiv (comming soon)]()
 
 
 - ### Dynamic-superb phase-2: A collaboratively expanding benchmark for measuring the capabilities of spoken language models with 180 tasks
 
-  [Chien-yu Huang](https://scholar.google.com.tw/citations?user=1Xfc3ikAAAAJ&hl=zh-TW), [Wei-Chih Chen](), **<u>Shu-wen Yang</u>**, [Andy T. Liu](https://andi611.github.io/), [Chen-An Li](), [Yu-Xiang Lin](), [Wei-Cheng Tseng]() et al.\\
+  [Chien-yu Huang](https://scholar.google.com.tw/citations?user=1Xfc3ikAAAAJ&hl=zh-TW), [Wei-Chih Chen](https://scholar.google.com/citations?user=1spRjbMAAAAJ&hl=en), **<u>Shu-wen Yang</u>**, [Andy T. Liu](https://andi611.github.io/), [Chen-An Li](https://scholar.google.com/citations?user=QOAVnwQAAAAJ&hl=zh-TW), [Yu-Xiang Lin](https://scholar.google.com.tw/citations?user=cZZ5vD8AAAAJ&hl=zh-TW), [Wei-Cheng Tseng](https://scholar.google.com.tw/citations?user=-d6aNP0AAAAJ&hl=zh-TW) et al.\\
   in **ICLR**, 2025\\
-  [arxiv](https://arxiv.org/abs/2404.09385) (preferred) / [code](https://github.com/s3prl/s3prl)
+  [arxiv](https://arxiv.org/abs/2411.05361) / [code](https://github.com/dynamic-superb/dynamic-superb)
 
 
 - ### A Large-Scale Evaluation of Speech Foundation Models
