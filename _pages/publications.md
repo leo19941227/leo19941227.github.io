@@ -13,6 +13,26 @@ author_profile: true
 The asterisk **<sup>*</sup>** next to the author's name indicates co-first authorship.
 
 
+- ### Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction
+
+  **<u>Shu-wen Yang</u>**, [Byeonggeun Kim](), [Kuan-Po Huang](), [Qingming Tang](), [Huy Phan](), [Bo-Ru Lu](), [Harsha Sundar](), [Shalini Ghosh](), [Hung-yi Lee](), [Chieh-Chi Kao](), [Chao Wang]()\\
+  in **ICML**, 2025\\
+  [arxiv](https://arxiv.org/abs/2404.09385) (preferred) / [code](https://github.com/s3prl/s3prl)
+
+
+- ### IMPACT: Iterative Mask-based Parallel Decoding for Text-to-Audio Generation with Diffusion Modeling
+
+  [Kuan-Po Huang](), **<u>Shu-wen Yang</u>**, [Huy Phan](), [Bo-Ru Lu](), [Byeonggeun Kim](), [Sashank Macha](), [Qingming Tang](), [Shalini Ghosh](), [Hung-yi Lee](), [Chieh-Chi Kao](), [Chao Wang]()\\
+  in **ICML**, 2025\\
+  [arxiv](https://arxiv.org/abs/2404.09385) (preferred) / [code](https://github.com/s3prl/s3prl)
+
+
+- ### Dynamic-superb phase-2: A collaboratively expanding benchmark for measuring the capabilities of spoken language models with 180 tasks
+
+  [Chien-yu Huang](https://scholar.google.com.tw/citations?user=1Xfc3ikAAAAJ&hl=zh-TW), [Wei-Chih Chen](), **<u>Shu-wen Yang</u>**, [Andy T. Liu](https://andi611.github.io/), [Chen-An Li](), [Yu-Xiang Lin](), [Wei-Cheng Tseng]() et al.\\
+  in **ICLR**, 2025\\
+  [arxiv](https://arxiv.org/abs/2404.09385) (preferred) / [code](https://github.com/s3prl/s3prl)
+
 
 - ### A Large-Scale Evaluation of Speech Foundation Models
 

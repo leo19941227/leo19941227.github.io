@@ -3,6 +3,8 @@ permalink: /news/
 title: "News"
 ---
 
+- **(5 / 2025)** Two papers (1 first-author) accepted to ICML 2025! See you in Vancouver!
+- **(3 / 2025)** I am working in ByteDance Seed as a Research Scientist Intern for Speech-to-Speech models.
 - **(11 / 2024)** I am honored to be awarded the [Google PhD Fellowship 2024](https://research.google/programs-and-events/phd-fellowship/recipients/) under the **Speech Processing** category.
 - **(08 / 2024)** I am now working in Amazon AGI as an Applied Scientist Intern for Audio Foundation Models.
 - **(04 / 2024)** I finally have my personal website! It has taken me much more time to build it than I thought, but it was worth it!

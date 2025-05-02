@@ -17,15 +17,14 @@ Finally, he enjoy playing the piano in the free time, under the guidance of [Yii
 
 ---
 
-My primary direction is on speech representation learning, a field that has garnered various names recently. My recent efforts concentrate on self-supervised learning, representation generalizability, and efficient pre-training.
+My primary direction is on speech representation learning, a field that has garnered various names recently. My recent efforts concentrate on self-supervised learning, representation generalizability, and audio generation.
 
 - **Self-Supervised Learning (SSL)**: Learning speech representations from unlabeled data. We discover that speech SSL techniques lead to representations with strong task generalizability beyond Automatic Speech Recognition (ASR).
 Additionally, we explore their use across a broad spectrum of real-life speech applications, which marks the beginning of the era of speech foundation models (SFM).
 
 - **Representation Generalizability**: Benchmarking the task and domain generalizability of SFMs. I think deeply about the purpose and methods of creating a correct and solidly grounded benchmark, especially regarding its important role in guiding future model development.
 
-- **Efficient Pre-training**: All existing SFMs require industrial-level computing, which makes further research monopolized by large corporations. I am currently working on how to pre-train SFMs efficiently within academic resources.
-
+- **Audio Generation**: Most existing speech & audio language models rely on discrete tokens. However, the waveform is continuous in nature. We replace the discrete tokens with the continuous tokens and achieve SOTA-level text-to-audio generation, rivaling the leading diffusion models while being much faster in inference and streamable.
 
 ## Selected Projects
 
