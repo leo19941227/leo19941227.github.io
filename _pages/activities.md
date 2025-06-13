@@ -7,10 +7,6 @@ Here are some of my activities in research communities.
 
 ## Research Experiences
 
-* **Research Scientist Intern**: ByteDance Seed, United States\\
-*(2025/3 - 2025/8)*
-    * Speech-to-Speech models
-    * Host: [Lu Lu](https://scholar.google.com/citations?user=IQaR2KoAAAAJ&hl=en) and [Ming Tu](https://scholar.google.com/citations?user=5BusdUwAAAAJ&hl=en)
 * **Applied Scientist Intern**: Amazon AGI, United States\\
 *(2024/8 - 2024/10)*
     * Decoder-only Audio Generation
